@@ -5,4 +5,7 @@ package cn.com.djin.springboot.interceptor;
  */
 public class TestB {
 
+    public void demo01(){
+        System.out.println("测试类testB的demo01方法。。");
+    }
 }
