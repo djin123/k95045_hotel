@@ -13,4 +13,9 @@ public class TestB {
     public void demo02(){
         System.out.println("测试方法demo02.。");
     }
+
+    //组员B写方法demo03
+    public void demo03(){
+        System.out.println("测试方法demo03！！！");
+    }
 }
